@@ -23,7 +23,7 @@ To deploy this on termx
 ```bash
   apt update
   apt upgrade
-  git clone https://github.com/CodeAvek/website-clone.git
+  git clone https://github.com/Chandro99/Website-Clone
   ls
   cd website-clone
   ls
@@ -35,7 +35,7 @@ To deploy in kali
 ```bash
   apt-get update
   apt-get upgrade
-  git clone https://github.com/CodeAvek/website-clone.git
+  git clone https://github.com/Chandro99/Website-Clone
   ls
   cd website-clone
   python script.py
