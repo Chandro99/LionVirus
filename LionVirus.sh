@@ -86,7 +86,7 @@ echo -e "\e[31m"
 echo -e "\e[1m\e[35m¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥\e[21m"
 
 echo " "
-echo -e "\e[93m\e[44mBy Clicking Enter you agree that"|pv -qL 20
+echo -e "\e[93m\e[44mContact:+8801737166595"|pv -qL 20
 echo -e "\e[44mTHIS TOOL IS USING ONLY FOR     "|pv -qL 20
 echo -e "\e[44m   EDUCATIONAL PURPOSE          "|pv -qL 20
 echo -e "\e[49m"
