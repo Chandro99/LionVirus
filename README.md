@@ -1,4 +1,4 @@
-# RCLogger|
+# LionVirus|
 
 
 ## 🚀 About Me
@@ -16,7 +16,7 @@ $ apt upgrade -y
 
 $ pkg install git -y
 
-$ git clone https://github.com/Devil-Tigers/LionVirus.git
+$ git clone https://github.com/Chandro99/LionVirus
 
 $ cd LionVirus
 
