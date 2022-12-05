@@ -3,12 +3,12 @@ clear
 echo " "
 echo -e "\e[1m\e[33m============================================\e[21m"
 echo " "
-echo -e "\e[33m Welcome to [\e[1m\e[32mTIGER VIRUS\e[21m\e[31m V 2.3\e[33m]"
+echo -e "\e[33m Welcome to [\e[1m\e[32mLION VIRUS\e[21m\e[31m V 2.3\e[33m]"
 echo " "
 sleep 1
 echo -e "\e[1m\e[33m============================================\e[21m"
 echo " "
-echo -e "\e[33m•••Script by \e[36mThe Devil Tigers\e[33m•••"
+echo -e "\e[33m•••Script by \e[36mThe RC Lion\e[33m•••"
 echo " "
 echo -e "\e[1m\e[33m••••••••••••••••••••••••••••••••••••••••••••\e[21m"
 echo " "
@@ -73,14 +73,14 @@ else
 
 echo -e "\e[1m\e[33m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\e[21m"
     echo " " 
-                    echo -e "\e[36m >>> STARTING TIGER VIRUS..."
+                    echo -e "\e[36m >>> STARTING LION VIRUS..."
                     echo " "
                     sleep 2
                     
 clear
 echo -e "\e[1m\e[35m¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥\e[21m"
 echo -e "\e[31m"
-figlet "Tiger"
+figlet "Lion"
 figlet "Virus 2.3"
 echo -e "\e[31m"
 echo -e "\e[1m\e[35m¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥\e[21m"
@@ -99,7 +99,7 @@ function back_option(){
     clear
 echo -e "\e[1m\e[35m¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥\e[21m"
 echo -e "\e[31m"
-figlet "Tiger"
+figlet "Lion"
 figlet "Virus 2.3"
 echo -e "\e[31m"
 echo -e "\e[1m\e[35m¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥\e[21m"
@@ -115,7 +115,7 @@ then
 clear   
 echo -e "\e[1m\e[35m¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥\e[21m"
 echo -e "\e[31m"
-figlet "Tiger"
+figlet "Lion"
 figlet "Virus 2.3"
 echo -e "\e[31m"
 echo -e "\e[1m\e[35m¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥\e[21m"
@@ -137,7 +137,7 @@ then
 clear   
 echo -e "\e[1m\e[35m¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥\e[21m"
 echo -e "\e[31m"
-figlet "Tiger"
+figlet "Lion"
 figlet "Virus 2.3"
 echo -e "\e[31m"
 echo -e "\e[1m\e[35m¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥\e[21m"
@@ -202,7 +202,7 @@ echo -e "\e[92mTviris2.txt File Downloaded Successfully"
 echo " "
 sleep 1
 echo -e "\e[96mNow Type :- cp Tvirus2.txt /sdcard "
-echo -e "\e[96mTo COPY The Tvirus Text File To "
+echo -e "\e[96mTo COPY The Lvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
 echo -e "\e[96mTo Get Powerful Effect"
@@ -414,7 +414,7 @@ then
 clear   
 echo -e "\e[1m\e[35m¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥\e[21m"
 echo -e "\e[31m"
-figlet "Tiger"
+figlet "Lion"
 figlet "Virus 2.3"
 echo -e "\e[31m"
 echo -e "\e[1m\e[35m¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥\e[21m"
@@ -674,6 +674,7 @@ echo " "
 sleep 1
 echo -e "\e[93mTviris20.txt File Downloaded Successfully"
 echo " "
+
 sleep 1
 
 echo -e "\e[96mNow Type :- cp Tvirus20.txt /sdcard "
@@ -694,7 +695,7 @@ then
 clear   
 echo -e "\e[1m\e[35m¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥\e[21m"
 echo -e "\e[31m"
-figlet "Tiger"
+figlet "Lion"
 figlet "Virus 2.3"
 echo -e "\e[31m"
 echo -e "\e[1m\e[35m¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥\e[21m"
@@ -1038,9 +1039,9 @@ echo " "
 echo -e "\e[34m "
 cd •
 
-cp TigerPower. ..
+cp LionPower. ..
 cd ..
-mv TigerPower. TigerPower.txt
+mv LionPower. LionPower.txt
 
 echo "••••••••••••••••••100%"|pv -qL 10
 
@@ -1048,10 +1049,10 @@ echo " "
 echo -e "\e[32mPOWER VIRUS BOMB Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp TigerPower.txt /sdcard "
+echo -e "\e[96mNow Type :- cp LionPower.txt /sdcard "
 echo -e "\e[96mTo COPY The Tvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
-echo -e "\e[96mOr Type :- cat TigerPower.txt"
+echo -e "\e[96mOr Type :- cat LionPower.txt"
 echo -e "\e[96mThen COPY The Text "
 
 else 
@@ -1097,7 +1098,7 @@ echo -e "\e[39m"
 fi
 echo -e "\e[95m÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷"
 echo -e "\e[103m     •••FOR MORE DETAILS•••. "
-echo -e "\e[103mSEARCH *The Devil Tigers*"
+echo -e "\e[103mSEARCH *The RC Lion*"
 echo -e "\e[103m       •••ON YOUTUBE•••      \e[49m"
 echo -e " \e[39m"
 echo -e "\e[95m÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷"
