@@ -167,9 +167,9 @@ echo -e "\e[32m~Downloading Min Virus BOMB Message 1"|pv -qL 20
 sleep 1
 echo -e "\e[94m"
 cd •
-cp Tvirus1. ..
+cp Lvirus1. ..
 cd ..
-mv Tvirus1. Tvirus1.txt
+mv Lvirus1. Lvirus1.txt
 
 echo "••••••••••••••••••100%"|pv -qL 10
 echo " "
@@ -177,12 +177,12 @@ sleep 1
 echo -e "\e[92mTviris1.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus1.txt /sdcard "
-echo -e "\e[96mTo COPY The Tvirus Text File To "
+echo -e "\e[96mNow Type :- cp Lvirus1.txt /sdcard "
+echo -e "\e[96mTo COPY The Lvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
 echo -e "\e[96mTo Get Powerful Effect"
-echo -e "\e[96mOr Type :- cat Tvirus1.txt"
+echo -e "\e[96mOr Type :- cat Lvirus1.txt"
 echo -e "\e[96mThen COPY The Text "
 elif [ $option2 -eq 2 ]
 then
@@ -190,9 +190,9 @@ echo -e "\e[32m~Downloading Min Virus BOMB Message 2"|pv -qL 20
 sleep 1
 echo -e "\e[94m"
 cd •
-cp Tvirus2. ..
+cp Lvirus2. ..
 cd ..
-mv Tvirus2. Tvirus2.txt
+mv Lvirus2. Lvirus2.txt
 
 echo "••••••••••••••••••100%"|pv -qL 10
 
@@ -201,12 +201,12 @@ sleep 1
 echo -e "\e[92mTviris2.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus2.txt /sdcard "
+echo -e "\e[96mNow Type :- cp Lvirus2.txt /sdcard "
 echo -e "\e[96mTo COPY The Lvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
 echo -e "\e[96mTo Get Powerful Effect"
-echo -e "\e[96mOr Type :- cat Tvirus2.txt"
+echo -e "\e[96mOr Type :- cat Lvirus2.txt"
 echo -e "\e[96mThen COPY The Text "
 
 elif [ $option2 -eq 3 ]
@@ -215,9 +215,9 @@ echo -e "\e[32m~Downloading Min Virus BOMB Message 3"|pv -qL 20
 sleep 1
 echo -e "\e[94m"
 cd •
-cp Tvirus3. ..
+cp Lvirus3. ..
 cd ..
-mv Tvirus3. Tvirus3.txt
+mv Lvirus3. Lvirus3.txt
 
 echo "••••••••••••••••••100%"|pv -qL 10
 
@@ -226,12 +226,12 @@ sleep 1
 echo -e "\e[92mTviris3.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus3.txt /sdcard "
-echo -e "\e[96mTo COPY The Tvirus Text File To "
+echo -e "\e[96mNow Type :- cp Lvirus3.txt /sdcard "
+echo -e "\e[96mTo COPY The lvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
 echo -e "\e[96mTo Get Powerful Effect"
-echo -e "\e[96mOr Type :- cat Tvirus3.txt"
+echo -e "\e[96mOr Type :- cat Lvirus3.txt"
 echo -e "\e[96mThen COPY The Text "
 elif [ $option2 -eq 4 ]
 then
@@ -239,9 +239,9 @@ echo -e "\e[32m~Downloading Min Virus BOMB Message 4"|pv -qL 20
 sleep 1
 echo -e "\e[94m"
 cd •
-cp Tvirus4. ..
+cp Lvirus4. ..
 cd ..
-mv Tvirus4. Tvirus4.txt
+mv Lvirus4. Lvirus4.txt
 
 echo "••••••••••••••••••100%"|pv -qL 10
 
@@ -250,12 +250,12 @@ sleep 1
 echo -e "\e[92mTviris4.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus4.txt /sdcard "
-echo -e "\e[96mTo COPY The Tvirus Text File To "
+echo -e "\e[96mNow Type :- cp Lvirus4.txt /sdcard "
+echo -e "\e[96mTo COPY The Lvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
 echo -e "\e[96mTo Get Powerful Effect"
-echo -e "\e[96mOr Type :- cat Tvirus4.txt"
+echo -e "\e[96mOr Type :- cat Lvirus4.txt"
 echo -e "\e[96mThen COPY The Text "
 elif [ $option2 -eq 5 ]
 then
@@ -263,9 +263,9 @@ echo -e "\e[32m~Downloading Min Virus BOMB Message 5"|pv -qL 20
 sleep 1
 echo -e "\e[94m"
 cd •
-cp Tvirus5. ..
+cp Lvirus5. ..
 cd ..
-mv Tvirus5. Tvirus5.txt
+mv Lvirus5. Lvirus5.txt
 
 echo "••••••••••••••••••100%"|pv -qL 10
 
@@ -274,12 +274,12 @@ sleep 1
 echo -e "\e[92mTviris5.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus5.txt /sdcard "
-echo -e "\e[96mTo COPY The Tvirus Text File To "
+echo -e "\e[96mNow Type :- cp Lvirus5.txt /sdcard "
+echo -e "\e[96mTo COPY The Lvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
 echo -e "\e[96mTo Get Powerful Effect"
-echo -e "\e[96mOr Type :- cat Tvirus5.txt"
+echo -e "\e[96mOr Type :- cat Lvirus5.txt"
 echo -e "\e[96mThen COPY The Text "
 elif [ $option2 -eq 6 ]
 then
@@ -287,9 +287,9 @@ echo -e "\e[32m~Downloading Min Virus BOMB Message 6"|pv -qL 20
 sleep 1
 echo -e "\e[94m"
 cd •
-cp Tvirus6. ..
+cp Lvirus6. ..
 cd ..
-mv Tvirus6. Tvirus6.txt
+mv Lvirus6. lvirus6.txt
 
 echo "••••••••••••••••••100%"|pv -qL 10
 
@@ -298,12 +298,12 @@ sleep 1
 echo -e "\e[92mTviris6.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus6.txt /sdcard "
-echo -e "\e[96mTo COPY The Tvirus Text File To "
+echo -e "\e[96mNow Type :- cp lvirus6.txt /sdcard "
+echo -e "\e[96mTo COPY The Lvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
 echo -e "\e[96mTo Get Powerful Effect"
-echo -e "\e[96mOr Type :- cat Tvirus6.txt"
+echo -e "\e[96mOr Type :- cat Lvirus6.txt"
 echo -e "\e[96mThen COPY The Text "
 elif [ $option2 -eq 7 ]
 then
@@ -311,9 +311,9 @@ echo -e "\e[32m~Downloading Min Virus BOMB Message 7"|pv -qL 20
 sleep 1
 echo -e "\e[94m"
 cd •
-cp Tvirus7. ..
+cp Lvirus7. ..
 cd ..
-mv Tvirus7. Tvirus7.txt
+mv Lvirus7. Lvirus7.txt
 
 echo "••••••••••••••••••100%"|pv -qL 10
 
@@ -322,12 +322,12 @@ sleep 1
 echo -e "\e[92mTviris7.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus7.txt /sdcard "
-echo -e "\e[96mTo COPY The Tvirus Text File To "
+echo -e "\e[96mNow Type :- cp Lvirus7.txt /sdcard "
+echo -e "\e[96mTo COPY The Lvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
 echo -e "\e[96mTo Get Powerful Effect"
-echo -e "\e[96mOr Type :- cat Tvirus7.txt"
+echo -e "\e[96mOr Type :- cat Lvirus7.txt"
 echo -e "\e[96mThen COPY The Text "
 elif [ $option2 -eq 8 ]
 then
@@ -335,9 +335,9 @@ echo -e "\e[32m~Downloading Min Virus BOMB Message 8"|pv -qL 20
 sleep 1
 echo -e "\e[94m"
 cd •
-cp Tvirus8. ..
+cp Lvirus8. ..
 cd ..
-mv Tvirus8. Tvirus8.txt
+mv Lvirus8. Lvirus8.txt
 
 echo "••••••••••••••••••100%"|pv -qL 10
 
@@ -346,12 +346,12 @@ sleep 1
 echo -e "\e[92mTviris8.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus8.txt /sdcard "
-echo -e "\e[96mTo COPY The Tvirus Text File To "
+echo -e "\e[96mNow Type :- cp Lvirus8.txt /sdcard "
+echo -e "\e[96mTo COPY The Lvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
 echo -e "\e[96mTo Get Powerful Effect"
-echo -e "\e[96mOr Type :- cat Tvirus8.txt"
+echo -e "\e[96mOr Type :- cat Lvirus8.txt"
 echo -e "\e[96mThen COPY The Text "
 elif [ $option2 -eq 9 ]
 then
@@ -359,9 +359,9 @@ echo -e "\e[32m~Downloading Min Virus BOMB Message 9"|pv -qL 20
 sleep 1
 echo -e "\e[94m"
 cd •
-cp Tvirus9. ..
+cp Lvirus9. ..
 cd ..
-mv Tvirus9. Tvirus9.txt
+mv Lvirus9. Lvirus9.txt
 
 echo "••••••••••••••••••100%"|pv -qL 10
 
@@ -370,12 +370,12 @@ sleep 1
 echo -e "\e[92mTviris9.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus9.txt /sdcard "
-echo -e "\e[96mTo COPY The Tvirus Text File To "
+echo -e "\e[96mNow Type :- cp Lvirus9.txt /sdcard "
+echo -e "\e[96mTo COPY The Lvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
 echo -e "\e[96mTo Get Powerful Effect"
-echo -e "\e[96mOr Type :- cat Tvirus9.txt"
+echo -e "\e[96mOr Type :- cat Lvirus9.txt"
 echo -e "\e[96mThen COPY The Text "
 elif [ $option2 -eq 10 ]
 then
@@ -383,9 +383,9 @@ echo -e "\e[32m~Downloading Min Virus BOMB Message 10"|pv -qL 20
 sleep 1
 echo -e "\e[94m"
 cd •
-cp Tvirus10. ..
+cp Lvirus10. ..
 cd ..
-mv Tvirus10. Tvirus10.txt
+mv Lvirus10. Lvirus10.txt
 
 echo "••••••••••••••••••100%"|pv -qL 10
 
@@ -394,12 +394,12 @@ sleep 1
 echo -e "\e[92mTviris10.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus10.txt /sdcard "
-echo -e "\e[96mTo COPY The Tvirus Text File To "
+echo -e "\e[96mNow Type :- cp Lvirus10.txt /sdcard "
+echo -e "\e[96mTo COPY The Lvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
 echo -e "\e[96mTo Get Powerful Effect"
-echo -e "\e[96mOr Type :- cat Tvirus10.txt"
+echo -e "\e[96mOr Type :- cat Lvirus10.txt"
 echo -e "\e[96mThen COPY The Text "
                 
 else 
@@ -444,9 +444,9 @@ echo -e "\e[33m~Downloading Med Virus BOMB Message 11"|pv -qL 20
 sleep 1
 echo -e "\e[94m"
 cd •
-cp Tvirus11. ..
+cp Lvirus11. ..
 cd ..
-mv Tvirus11. Tvirus11.txt
+mv Lvirus11. Lvirus11.txt
 
 echo "••••••••••••••••••100%"|pv -qL 10
 
@@ -455,12 +455,12 @@ sleep 1
 echo -e "\e[93mTviris11.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus11.txt /sdcard "
-echo -e "\e[96mTo COPY The Tvirus Text File To "
+echo -e "\e[96mNow Type :- cp Lvirus11.txt /sdcard "
+echo -e "\e[96mTo COPY The Lvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
 echo -e "\e[96mTo Get Powerful Effect"
-echo -e "\e[96mOr Type :- cat Tvirus11.txt"
+echo -e "\e[96mOr Type :- cat Lvirus11.txt"
 echo -e "\e[96mThen COPY The Text "
 elif [ $option2 -eq 12 ]
 then
@@ -468,9 +468,9 @@ echo -e "\e[33m~Downloading Med Virus BOMB Message 12"|pv -qL 20
 sleep 1
 echo -e "\e[94m"
 cd •
-cp Tvirus12. ..
+cp Lvirus12. ..
 cd ..
-mv Tvirus12. Tvirus12.txt
+mv Lvirus12. Lvirus12.txt
 
 echo "••••••••••••••••••100%"|pv -qL 10
 
@@ -479,12 +479,12 @@ sleep 1
 echo -e "\e[93mTviris12.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus12.txt /sdcard "
-echo -e "\e[96mTo COPY The Tvirus Text File To "
+echo -e "\e[96mNow Type :- cp Lvirus12.txt /sdcard "
+echo -e "\e[96mTo COPY The Lvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
 echo -e "\e[96mTo Get Powerful Effect"
-echo -e "\e[96mOr Type :- cat Tvirus12.txt"
+echo -e "\e[96mOr Type :- cat Lvirus12.txt"
 echo -e "\e[96mThen COPY The Text "
 
 elif [ $option2 -eq 13 ]
@@ -493,9 +493,9 @@ echo -e "\e[33m~Downloading Med Virus BOMB Message 13"|pv -qL 20
 sleep 1
 echo -e "\e[94m"
 cd •
-cp Tvirus13. ..
+cp Lvirus13. ..
 cd ..
-mv Tvirus13. Tvirus13.txt
+mv Lvirus13. Lvirus13.txt
 
 echo "••••••••••••••••••100%"|pv -qL 10
 
@@ -504,12 +504,12 @@ sleep 1
 echo -e "\e[93mTviris13.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus13.txt /sdcard "
-echo -e "\e[96mTo COPY The Tvirus Text File To "
+echo -e "\e[96mNow Type :- cp Lvirus13.txt /sdcard "
+echo -e "\e[96mTo COPY The Lvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
 echo -e "\e[96mTo Get Powerful Effect"
-echo -e "\e[96mOr Type :- cat Tvirus13.txt"
+echo -e "\e[96mOr Type :- cat Lvirus13.txt"
 echo -e "\e[96mThen COPY The Text "
 elif [ $option2 -eq 14 ]
 then
@@ -517,9 +517,9 @@ echo -e "\e[33m~Downloading Med Virus BOMB Message 14"|pv -qL 20
 sleep 1
 echo -e "\e[94m"
 cd •
-cp Tvirus14. ..
+cp Lvirus14. ..
 cd ..
-mv Tvirus14. Tvirus14.txt
+mv Lvirus14. Lvirus14.txt
 
 echo "••••••••••••••••••100%"|pv -qL 10
 
@@ -528,12 +528,12 @@ sleep 1
 echo -e "\e[93mTviris14.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus14.txt /sdcard "
-echo -e "\e[96mTo COPY The Tvirus Text File To "
+echo -e "\e[96mNow Type :- cp Lvirus14.txt /sdcard "
+echo -e "\e[96mTo COPY The Lvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
 echo -e "\e[96mTo Get Powerful Effect"
-echo -e "\e[96mOr Type :- cat Tvirus14.txt"
+echo -e "\e[96mOr Type :- cat Lvirus14.txt"
 echo -e "\e[96mThen COPY The Text "
 elif [ $option2 -eq 15 ]
 then
@@ -541,9 +541,9 @@ echo -e "\e[33m~Downloading Med Virus BOMB Message 15"|pv -qL 20
 sleep 1
 echo -e "\e[94m"
 cd •
-cp Tvirus15. ..
+cp Lvirus15. ..
 cd ..
-mv Tvirus15. Tvirus15.txt
+mv Lvirus15. Lvirus15.txt
 
 echo "••••••••••••••••••100%"|pv -qL 10
 
@@ -552,12 +552,12 @@ sleep 1
 echo -e "\e[93mTviris15.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus15.txt /sdcard "
-echo -e "\e[96mTo COPY The Tvirus Text File To "
+echo -e "\e[96mNow Type :- cp Lvirus15.txt /sdcard "
+echo -e "\e[96mTo COPY The Lvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
 echo -e "\e[96mTo Get Powerful Effect"
-echo -e "\e[96mOr Type :- cat Tvirus15.txt"
+echo -e "\e[96mOr Type :- cat Lvirus15.txt"
 echo -e "\e[96mThen COPY The Text "
 elif [ $option2 -eq 16 ]
 then
@@ -565,9 +565,9 @@ echo -e "\e[33m~Downloading Med Virus BOMB Message 16"|pv -qL 20
 sleep 1
 echo -e "\e[94m"
 cd •
-cp Tvirus16. ..
+cp Lvirus16. ..
 cd ..
-mv Tvirus16. Tvirus16.txt
+mv Lvirus16. Lvirus16.txt
 
 echo "••••••••••••••••••100%"|pv -qL 10
 
@@ -576,12 +576,12 @@ sleep 1
 echo -e "\e[93mTviris16.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus16.txt /sdcard "
-echo -e "\e[96mTo COPY The Tvirus Text File To "
+echo -e "\e[96mNow Type :- cp Lvirus16.txt /sdcard "
+echo -e "\e[96mTo COPY The Lvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
 echo -e "\e[96mTo Get Powerful Effect"
-echo -e "\e[96mOr Type :- cat Tvirus16.txt"
+echo -e "\e[96mOr Type :- cat Lvirus16.txt"
 echo -e "\e[96mThen COPY The Text "
 elif [ $option2 -eq 17 ]
 then
@@ -589,9 +589,9 @@ echo -e "\e[33m~Downloading Med Virus BOMB Message 17"|pv -qL 20
 sleep 1
 echo -e "\e[94m"
 cd •
-cp Tvirus17. ..
+cp Lvirus17. ..
 cd ..
-mv Tvirus17. Tvirus17.txt
+mv Lvirus17. Lvirus17.txt
 
 echo "••••••••••••••••••100%"|pv -qL 10
 
@@ -600,12 +600,12 @@ sleep 1
 echo -e "\e[93mTviris17.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus17.txt /sdcard "
-echo -e "\e[96mTo COPY The Tvirus Text File To "
+echo -e "\e[96mNow Type :- cp Lvirus17.txt /sdcard "
+echo -e "\e[96mTo COPY The Lvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
 echo -e "\e[96mTo Get Powerful Effect"
-echo -e "\e[96mOr Type :- cat Tvirus17.txt"
+echo -e "\e[96mOr Type :- cat Lvirus17.txt"
 echo -e "\e[96mThen COPY The Text "
 elif [ $option2 -eq 18 ]
 then
@@ -613,9 +613,9 @@ echo -e "\e[33m~Downloading Med Virus BOMB Message 18"|pv -qL 20
 sleep 1
 echo -e "\e[94m"
 cd •
-cp Tvirus18. ..
+cp Lvirus18. ..
 cd ..
-mv Tvirus18. Tvirus18.txt
+mv Lvirus18. Lvirus18.txt
 
 
 echo "••••••••••••••••••100%"|pv -qL 10
@@ -625,12 +625,12 @@ sleep 1
 echo -e "\e[93mTviris18.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus18.txt /sdcard "
-echo -e "\e[96mTo COPY The Tvirus Text File To "
+echo -e "\e[96mNow Type :- cp Lvirus18.txt /sdcard "
+echo -e "\e[96mTo COPY The Lvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
 echo -e "\e[96mTo Get Powerful Effect"
-echo -e "\e[96mOr Type :- cat Tvirus18.txt"
+echo -e "\e[96mOr Type :- cat Lvirus18.txt"
 echo -e "\e[96mThen COPY The Text "
 elif [ $option2 -eq 19 ]
 then
@@ -638,9 +638,9 @@ echo -e "\e[33m~Downloading Med Virus BOMB Message 19"|pv -qL 20
 sleep 1
 echo -e "\e[94m"
 cd •
-cp Tvirus19. ..
+cp Lvirus19. ..
 cd ..
-mv Tvirus19. Tvirus19.txt
+mv Lvirus19. Lvirus19.txt
 
 
 echo "••••••••••••••••••100%"|pv -qL 10
@@ -650,12 +650,12 @@ sleep 1
 echo -e "\e[93mTviris19.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus19.txt /sdcard "
-echo -e "\e[96mTo COPY The Tvirus Text File To "
+echo -e "\e[96mNow Type :- cp Lvirus19.txt /sdcard "
+echo -e "\e[96mTo COPY The Lvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
 echo -e "\e[96mTo Get Powerful Effect"
-echo -e "\e[96mOr Type :- cat Tvirus19.txt"
+echo -e "\e[96mOr Type :- cat Lvirus19.txt"
 echo -e "\e[96mThen COPY The Text "
 elif [ $option2 -eq 20 ]
 then
@@ -663,9 +663,9 @@ echo -e "\e[33m~Downloading Med Virus BOMB Message 20"|pv -qL 20
 sleep 1
 echo -e "\e[94m"
 cd •
-cp Tvirus20. ..
+cp Lvirus20. ..
 cd ..
-mv Tvirus20. Tvirus20.txt
+mv Lvirus20. Lvirus20.txt
 
 
 echo "••••••••••••••••••100%"|pv -qL 10
@@ -677,12 +677,12 @@ echo " "
 
 sleep 1
 
-echo -e "\e[96mNow Type :- cp Tvirus20.txt /sdcard "
-echo -e "\e[96mTo COPY The Tvirus Text File To "
+echo -e "\e[96mNow Type :- cp Lvirus20.txt /sdcard "
+echo -e "\e[96mTo COPY The Lvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
 echo -e "\e[96mTo Get Powerful Effect"
-echo -e "\e[96mOr Type :- cat Tvirus20.txt"
+echo -e "\e[96mOr Type :- cat Lvirus20.txt"
 echo -e "\e[96mThen COPY The Text "
 else 
 echo " "
@@ -725,9 +725,9 @@ echo -e "\e[35m~Downloading Max Virus BOMB Message 21"|pv -qL 20
 sleep 1
 echo -e "\e[94m"
 cd •
-cp Tvirus21. ..
+cp Lvirus21. ..
 cd ..
-mv Tvirus21. Tvirus21.txt
+mv Lvirus21. Lvirus21.txt
 
 
 echo "••••••••••••••••••100%"|pv -qL 10
@@ -737,12 +737,12 @@ sleep 1
 echo -e "\e[35mTviris21.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus21.txt /sdcard "
-echo -e "\e[96mTo COPY The Tvirus Text File To "
+echo -e "\e[96mNow Type :- cp Lvirus21.txt /sdcard "
+echo -e "\e[96mTo COPY The Lvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
 echo -e "\e[96mTo Get Powerful Effect"
-echo -e "\e[96mOr Type :- cat Tvirus21.txt"
+echo -e "\e[96mOr Type :- cat Lvirus21.txt"
 echo -e "\e[96mThen COPY The Text "
 elif [ $option2 -eq 22 ]
 then
@@ -750,9 +750,9 @@ echo -e "\e[35m~Downloading Max Virus BOMB Message 22"|pv -qL 20
 sleep 1
 echo -e "\e[94m"
 cd •
-cp Tvirus22. ..
+cp Lvirus22. ..
 cd ..
-mv Tvirus22. Tvirus22.txt
+mv Lvirus22. Lvirus22.txt
 
 
 echo "••••••••••••••••••100%"|pv -qL 10
@@ -762,12 +762,12 @@ sleep 1
 echo -e "\e[35mTviris22.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus22.txt /sdcard "
-echo -e "\e[96mTo COPY The Tvirus Text File To "
+echo -e "\e[96mNow Type :- cp Lvirus22.txt /sdcard "
+echo -e "\e[96mTo COPY The Lvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
 echo -e "\e[96mTo Get Powerful Effect"
-echo -e "\e[96mOr Type :- cat Tvirus22.txt"
+echo -e "\e[96mOr Type :- cat Lvirus22.txt"
 echo -e "\e[96mThen COPY The Text "
 
 elif [ $option2 -eq 23 ]
@@ -776,9 +776,9 @@ echo -e "\e[35m~Downloading Max Virus BOMB Message 23"|pv -qL 20
 sleep 1
 echo -e "\e[94m"
 cd •
-cp Tvirus23. ..
+cp Lvirus23. ..
 cd ..
-mv Tvirus23. Tvirus23.txt
+mv Lvirus23. Lvirus23.txt
 
 
 echo "••••••••••••••••••100%"|pv -qL 10
@@ -788,12 +788,12 @@ sleep 1
 echo -e "\e[35mTviris23.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus23.txt /sdcard "
-echo -e "\e[96mTo COPY The Tvirus Text File To "
+echo -e "\e[96mNow Type :- cp Lvirus23.txt /sdcard "
+echo -e "\e[96mTo COPY The Lvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
 echo -e "\e[96mTo Get Powerful Effect"
-echo -e "\e[96mOr Type :- cat Tvirus23.txt"
+echo -e "\e[96mOr Type :- cat Lvirus23.txt"
 echo -e "\e[96mThen COPY The Text "
 elif [ $option2 -eq 24 ]
 then
@@ -801,9 +801,9 @@ echo -e "\e[35m~Downloading Max Virus BOMB Message 24"|pv -qL 20
 sleep 1
 echo -e "\e[94m"
 cd •
-cp Tvirus24. ..
+cp Lvirus24. ..
 cd ..
-mv Tvirus24. Tvirus24.txt
+mv Lvirus24. Lvirus24.txt
 
 
 echo "••••••••••••••••••100%"|pv -qL 10
@@ -813,12 +813,12 @@ sleep 1
 echo -e "\e[35mTviris24.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus24.txt /sdcard "
-echo -e "\e[96mTo COPY The Tvirus Text File To "
+echo -e "\e[96mNow Type :- cp Lvirus24.txt /sdcard "
+echo -e "\e[96mTo COPY The Lvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
 echo -e "\e[96mTo Get Powerful Effect"
-echo -e "\e[96mOr Type :- cat Tvirus24.txt"
+echo -e "\e[96mOr Type :- cat Lvirus24.txt"
 echo -e "\e[96mThen COPY The Text "
 elif [ $option2 -eq 25 ]
 then
@@ -826,9 +826,9 @@ echo -e "\e[35m~Downloading Max Virus BOMB Message 25"|pv -qL 20
 sleep 1
 echo -e "\e[94m"
 cd •
-cp Tvirus25. ..
+cp Lvirus25. ..
 cd ..
-mv Tvirus25. Tvirus25.txt
+mv Lvirus25. Lvirus25.txt
 
 
 echo "••••••••••••••••••100%"|pv -qL 10
@@ -838,12 +838,12 @@ sleep 1
 echo -e "\e[35mTviris25.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus25.txt /sdcard "
-echo -e "\e[96mTo COPY The Tvirus Text File To "
+echo -e "\e[96mNow Type :- cp Lvirus25.txt /sdcard "
+echo -e "\e[96mTo COPY The Lvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
 echo -e "\e[96mTo Get Powerful Effect"
-echo -e "\e[96mOr Type :- cat Tvirus25.txt"
+echo -e "\e[96mOr Type :- cat Lvirus25.txt"
 echo -e "\e[96mThen COPY The Text "
 elif [ $option2 -eq 26 ]
 then
@@ -851,9 +851,9 @@ echo -e "\e[35m~Downloading Max Virus BOMB Message 26"|pv -qL 20
 sleep 1
 echo -e "\e[94m"
 cd •
-cp Tvirus26. ..
+cp Lvirus26. ..
 cd ..
-mv Tvirus26. Tvirus26.txt
+mv Lvirus26. Lvirus26.txt
 
 
 echo "••••••••••••••••••100%"|pv -qL 10
@@ -863,12 +863,12 @@ sleep 1
 echo -e "\e[35mTviris26.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus26.txt /sdcard "
-echo -e "\e[96mTo COPY The Tvirus Text File To "
+echo -e "\e[96mNow Type :- cp Lvirus26.txt /sdcard "
+echo -e "\e[96mTo COPY The Lvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
 echo -e "\e[96mTo Get Powerful Effect"
-echo -e "\e[96mOr Type :- cat Tvirus26.txt"
+echo -e "\e[96mOr Type :- cat Lvirus26.txt"
 echo -e "\e[96mThen COPY The Text "
 elif [ $option2 -eq 27 ]
 then
@@ -876,9 +876,9 @@ echo -e "\e[35m~Downloading Max Virus BOMB Message 27"|pv -qL 20
 sleep 1
 echo -e "\e[94m"
 cd •
-cp Tvirus27. ..
+cp Lvirus27. ..
 cd ..
-mv Tvirus27. Tvirus27.txt
+mv Lvirus27. Lvirus27.txt
 
 
 echo "••••••••••••••••••100%"|pv -qL 10
@@ -888,12 +888,12 @@ sleep 1
 echo -e "\e[35mTviris27.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus27.txt /sdcard "
-echo -e "\e[96mTo COPY The Tvirus Text File To "
+echo -e "\e[96mNow Type :- cp Lvirus27.txt /sdcard "
+echo -e "\e[96mTo COPY The Lvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
 echo -e "\e[96mTo Get Powerful Effect"
-echo -e "\e[96mOr Type :- cat Tvirus27.txt"
+echo -e "\e[96mOr Type :- cat Lvirus27.txt"
 echo -e "\e[96mThen COPY The Text "
 elif [ $option2 -eq 28 ]
 then
@@ -901,9 +901,9 @@ echo -e "\e[35m~Downloading Max Virus BOMB Message 28"|pv -qL 20
 sleep 1
 echo -e "\e[94m"
 cd •
-cp Tvirus28. ..
+cp Lvirus28. ..
 cd ..
-mv Tvirus28. Tvirus28.txt
+mv Lvirus28. Lvirus28.txt
 
 
 echo "••••••••••••••••••100%"|pv -qL 10
@@ -913,12 +913,12 @@ sleep 1
 echo -e "\e[35mTviris28.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus28.txt /sdcard "
-echo -e "\e[96mTo COPY The Tvirus Text File To "
+echo -e "\e[96mNow Type :- cp Lvirus28.txt /sdcard "
+echo -e "\e[96mTo COPY The Lvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
 echo -e "\e[96mTo Get Powerful Effect"
-echo -e "\e[96mOr Type :- cat Tvirus28.txt"
+echo -e "\e[96mOr Type :- cat Lvirus28.txt"
 echo -e "\e[96mThen COPY The Text "
 elif [ $option2 -eq 29 ]
 then
@@ -926,9 +926,9 @@ echo -e "\e[35m~Downloading Max Virus BOMB Message 29"|pv -qL 20
 sleep 1
 echo -e "\e[94m"
 cd •
-cp Tvirus29. ..
+cp Lvirus29. ..
 cd ..
-mv Tvirus29. Tvirus29.txt
+mv Lvirus29. Lvirus29.txt
 
 
 echo "••••••••••••••••••100%"|pv -qL 10
@@ -938,12 +938,12 @@ sleep 1
 echo -e "\e[35mTviris29.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus29.txt /sdcard "
-echo -e "\e[96mTo COPY The Tvirus Text File To "
+echo -e "\e[96mNow Type :- cp Lvirus29.txt /sdcard "
+echo -e "\e[96mTo COPY The Lvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
 echo -e "\e[96mTo Get Powerful Effect"
-echo -e "\e[96mOr Type :- cat Tvirus29.txt"
+echo -e "\e[96mOr Type :- cat Lvirus29.txt"
 echo -e "\e[96mThen COPY The Text "
 elif [ $option2 -eq 30 ]
 then
@@ -951,9 +951,9 @@ echo -e "\e[35m~Downloading Max Virus BOMB Message 30"|pv -qL 20
 sleep 1
 echo -e "\e[94m"
 cd •
-cp Tvirus30. ..
+cp Lvirus30. ..
 cd ..
-mv Tvirus30. Tvirus30.txt
+mv Lvirus30. Lvirus30.txt
 
 
 echo "••••••••••••••••••100%"|pv -qL 10
@@ -964,12 +964,12 @@ echo -e "\e[35mTviris30.txt File Downloaded Successfully"
 echo " "
 sleep 1
 
-echo -e "\e[96mNow Type :- cp Tvirus30.txt /sdcard "
-echo -e "\e[96mTo COPY The Tvirus Text File To "
+echo -e "\e[96mNow Type :- cp Lvirus30.txt /sdcard "
+echo -e "\e[96mTo COPY The Lvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
 echo -e "\e[96mTo Get Powerful Effect"
-echo -e "\e[96mOr Type :- cat Tvirus30.txt"
+echo -e "\e[96mOr Type :- cat Lvirus30.txt"
 echo -e "\e[96mThen COPY The Text "
 else 
 echo " "
@@ -1050,7 +1050,7 @@ echo -e "\e[32mPOWER VIRUS BOMB Downloaded Successfully"
 echo " "
 sleep 1
 echo -e "\e[96mNow Type :- cp LionPower.txt /sdcard "
-echo -e "\e[96mTo COPY The Tvirus Text File To "
+echo -e "\e[96mTo COPY The Lvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mOr Type :- cat LionPower.txt"
 echo -e "\e[96mThen COPY The Text "
@@ -1099,7 +1099,7 @@ fi
 echo -e "\e[95m÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷"
 echo -e "\e[103m     •••FOR MORE DETAILS•••. "
 echo -e "\e[103mSEARCH *The RC Lion*"
-echo -e "\e[103m       •••ON YOUTUBE•••      \e[49m"
+echo -e "\e[103m       •••+8801737166595•••      \e[49m"
 echo -e " \e[39m"
 echo -e "\e[95m÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷"
 echo -e "\e[39m"
