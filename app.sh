@@ -8,7 +8,7 @@ echo -e "\e[31m"
 echo -e "\e[1m\e[35m¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥\e[21m"
 echo " "
 
-echo -e "\e[31m VIRUS APPLICATIONS ( New 2021 ! ) "|pv -qL 20
+echo -e "\e[31m VIRUS APPLICATIONS ( New 2023 ! ) "|pv -qL 20
 echo -e "\e[96m___________________________________"
 echo " "
 sleep 1
